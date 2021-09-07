@@ -1,0 +1,39 @@
+<annotation>
+  <folder></folder>
+  <filename>alligator.jpeg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>273</width>
+    <height>184</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>tissue clamp</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>12.2</xmin>
+      <ymin>14.56</ymin>
+      <xmax>127.49</xmax>
+      <ymax>176.43</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tissue clamp</name>
+    <truncated>0</truncated>
+    <occluded>0</occluded>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>171.28</xmin>
+      <ymin>10.77</ymin>
+      <xmax>258.62</xmax>
+      <ymax>179.05</ymax>
+    </bndbox>
+  </object>
+</annotation>

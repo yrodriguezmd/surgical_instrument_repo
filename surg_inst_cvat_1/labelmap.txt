@@ -1,0 +1,17 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+fine forceps:128,0,0::
+heavy forceps:0,128,0::
+metz scissors:128,128,0::
+mayo scissors:0,0,128::
+fine scissors:128,0,128::
+zen retractor:0,128,128::
+self retractor:128,128,128::
+heavy needle holder:64,0,0::
+fine needle holder:192,0,0::
+basin:64,128,0::
+scalpel:192,128,0::
+tissue clamp:64,0,128::
+towel clip:192,0,128::
+kelly clamp:64,128,128::
+mosquito clamp:192,128,128::
