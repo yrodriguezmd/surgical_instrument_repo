@@ -2,7 +2,11 @@
 annotations_cvat
 
 ### Label Studio trial
-annotations and images INDIV FILES uploaded
+
+Annotations and images INDIV FILES uploaded, PASCAL VOC.
+
+CSV available.
 
 ### CVAT trial
-annotations and images FOLDER uploaded, PASCAL VOC
+
+Annotations and images FOLDER uploaded, PASCAL VOC.
