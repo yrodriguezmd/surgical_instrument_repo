@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>mix2</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>yrodriguezmd@gmail.com</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>300</width>
+<height>168</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>fine forceps</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>15</xmin>
+<ymin>3</ymin>
+<xmax>55</xmax>
+<ymax>123</ymax>
+</bndbox>
+</object>
+<object>
+<name>fine forceps</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>45</xmin>
+<ymin>9</ymin>
+<xmax>123</xmax>
+<ymax>123</ymax>
+</bndbox>
+</object>
+<object>
+<name>metz scissors</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>76</xmin>
+<ymin>49</ymin>
+<xmax>181</xmax>
+<ymax>133</ymax>
+</bndbox>
+</object>
+<object>
+<name>metz scissors</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>98</xmin>
+<ymin>53</ymin>
+<xmax>253</xmax>
+<ymax>144</ymax>
+</bndbox>
+</object>
+<object>
+<name>mosquito clamp</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>112</xmin>
+<ymin>96</ymin>
+<xmax>281</xmax>
+<ymax>160</ymax>
+</bndbox>
+</object>
+</annotation>

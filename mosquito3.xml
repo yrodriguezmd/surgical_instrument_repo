@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>mosquito3</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>yrodriguezmd@gmail.com</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>500</width>
+<height>500</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>mosquito clamp</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>101</xmin>
+<ymin>241</ymin>
+<xmax>365</xmax>
+<ymax>359</ymax>
+</bndbox>
+</object>
+<object>
+<name>mosquito clamp</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>67</xmin>
+<ymin>166</ymin>
+<xmax>323</xmax>
+<ymax>278</ymax>
+</bndbox>
+</object>
+</annotation>
