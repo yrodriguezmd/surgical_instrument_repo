@@ -1,0 +1,5 @@
+Dataset containing 5 images of typical surgical scissors (4 as main object, 1 as multiple objects in an image) 
++ 
+5 images of surgical scalpels (4 as main object, 1 as multiple).
+
+Serve as pilot for pseudolabelling.
